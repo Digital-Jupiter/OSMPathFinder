@@ -9,5 +9,6 @@
   <modules>
   	<module>OSMPathFinder-DonwloadNewMap</module>
   	<module>OSMPathFinder-ChooseExistingMap</module>
+  	<module>OSMPathFinder-DefineNewSearch</module>
   </modules>
 </project>
