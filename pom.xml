@@ -6,4 +6,7 @@
   <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>OSMPathFinder</name>
+  <modules>
+  	<module>OSMPathFinder-DonwloadNewMap</module>
+  </modules>
 </project>
