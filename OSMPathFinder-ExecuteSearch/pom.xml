@@ -22,5 +22,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+        <dependency>
+    	<groupId>com.cr.jee</groupId>
+    	<artifactId>OSMPathFinder-DonwloadNewMap</artifactId>
+    	<version>0.1-SNAPSHOT</version>
+    	<scope>provided</scope>
+    </dependency>
+        <dependency>
+    	<groupId>com.cr.jee</groupId>
+    	<artifactId>OSMPathFinder-DefineNewSearch</artifactId>
+    	<version>0.1-SNAPSHOT</version>
+    	<scope>provided</scope>
+    </dependency>
   </dependencies>
 </project>
